@@ -1,0 +1,608 @@
+[
+    {
+        "item_id": 0,
+        "name": "Apple pie",
+        "image_url": "https://joyfoodsunshine.com/wp-content/uploads/2019/08/best-apple-pie-recipe-from-scratch-8.jpg",
+        "price": 340
+    },
+    {
+        "item_id": 1,
+        "name": "Baby back ribs",
+        "image_url": "https://www.askchefdennis.com/wp-content/uploads/2022/05/baby-back-ribs-on-platter-10.jpg",
+        "price": 210
+    },
+    {
+        "item_id": 2,
+        "name": "Baklava",
+        "image_url": "https://www.modernhoney.com/wp-content/uploads/2023/03/Baklava-8-crop-scaled.jpg",
+        "price": 460
+    },
+    {
+        "item_id": 3,
+        "name": "Beef carpaccio",
+        "image_url": "https://www.theslowroasteditalian.com/wp-content/uploads/2022/07/Beef-Carpaccio-SQUARE.jpg",
+        "price": 110
+    },
+    {
+        "item_id": 4,
+        "name": "Beef tartare",
+        "image_url": "https://thehappyfoodie.co.uk/wp-content/uploads/2021/08/stein_french_odyssey_2_73_img_s900x0_c1092x638_l0x295.jpg",
+        "price": 210
+    },
+    {
+        "item_id": 5,
+        "name": "Beet salad",
+        "image_url": "https://www.happyfoodstube.com/wp-content/uploads/2019/11/beet-salad-with-feta-image.jpg",
+        "price": 500
+    },
+    {
+        "item_id": 6,
+        "name": "Beignets",
+        "image_url": "https://www.jocooks.com/wp-content/uploads/2019/06/beignets-1-24.jpg",
+        "price": 100
+    },
+    {
+        "item_id": 7,
+        "name": "Bibimbap",
+        "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2020/03/bibimbap.jpg",
+        "price": 560
+    },
+    {
+        "item_id": 8,
+        "name": "Bread pudding",
+        "image_url": "https://www.onceuponachef.com/images/2022/11/bread-pudding.jpg",
+        "price": 200
+    },
+    {
+        "item_id": 9,
+        "name": "Breakfast burrito",
+        "image_url": "https://emilybites.com/wp-content/uploads/2021/06/Turkey-Sausage-Breakfast-Burritos-5b.jpg",
+        "price": 560
+    },
+    {
+        "item_id": 10,
+        "name": "Bruschetta",
+        "image_url": "https://www.lifeasastrawberry.com/wp-content/uploads/2012/11/warm-bruschetta-1.jpg",
+        "price": 230
+    },
+    {
+        "item_id": 11,
+        "name": "Caesar salad",
+        "image_url": "https://natashaskitchen.com/wp-content/uploads/2019/01/Caesar-Salad-Recipe-3.jpg",
+        "price": 300
+    },
+    {
+        "item_id": 12,
+        "name": "Cannoli",
+        "image_url": "https://www.cookingclassy.com/wp-content/uploads/2020/02/cannoli-20.jpg",
+        "price": 210
+    },
+    {
+        "item_id": 13,
+        "name": "Caprese salad",
+        "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2019/08/caprese-salad-recipe-1.jpg",
+        "price": 320
+    },
+    {
+        "item_id": 14,
+        "name": "Carrot cake",
+        "image_url": "https://i0.wp.com/lagompatisserie.com/wp-content/uploads/2021/09/carrot_cake.jpg?fit=1000%2C1000&ssl=1",
+        "price": 110
+    },
+    {
+        "item_id": 15,
+        "name": "ceviche",
+        "image_url": "https://www.cookingclassy.com/wp-content/uploads/2020/09/ceviche-6.jpg",
+        "price": 670
+    },
+    {
+        "item_id": 16,
+        "name": "Cheese plate",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5008a3c6c4aa6450352d2303/1515195786792-QRL8SU4RY0PLEIL0WA4V/cheese-plate.jpg",
+        "price": 660
+    },
+    {
+        "item_id": 17,
+        "name": "Cheese cake",
+        "image_url": "https://natashaskitchen.com/wp-content/uploads/2020/05/Pefect-Cheesecake-7.jpg",
+        "price": 560
+    },
+    {
+        "item_id": 18,
+        "name": "Chicken curry",
+        "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2022/09/Air-Fryer-Chicken-Curry-square-FS-36.jpg",
+        "price": 550
+    },
+    {
+        "item_id": 19,
+        "name": "Chicken quesadilla",
+        "image_url": "https://www.wellplated.com/wp-content/uploads/2022/10/best-chicken-quesadilla.jpg",
+        "price": 450
+    },
+    {
+        "item_id": 20,
+        "name": "Chicken wings",
+        "image_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/12/Air-Fryer-Chicken-Wings-d2c6fa4.jpg?quality=90&resize=556,505",
+        "price": 440
+    },
+    {
+        "item_id": 21,
+        "name": "Chocolate cake",
+        "image_url": "https://sallysbakingaddiction.com/wp-content/uploads/2013/04/triple-chocolate-cake-4.jpg",
+        "price": 340
+    },
+    {
+        "item_id": 22,
+        "name": "Chocolate mousse",
+        "image_url": "https://bakewithzoha.com/wp-content/uploads/2023/04/chocolate-mousse-cake-featured.jpg",
+        "price": 230
+    },
+    {
+        "item_id": 23,
+        "name": "churros",
+        "image_url": "https://www.justataste.com/wp-content/uploads/2013/03/easy-churros-chocolate.jpg",
+        "price": 120
+    },
+    {
+        "item_id": 24,
+        "name": "Clam chowder",
+        "image_url": "https://thecozycook.com/wp-content/uploads/2022/10/Clam-Chowder-f.jpg",
+        "price": 630
+    },
+    {
+        "item_id": 25,
+        "name": "Club sandwich",
+        "image_url": "https://www.jocooks.com/wp-content/uploads/2020/10/club-sandwich-1-9.jpg",
+        "price": 70
+    },
+    {
+        "item_id": 26,
+        "name": "Crab cakes",
+        "image_url": "https://www.jocooks.com/wp-content/uploads/2018/12/crab-cakes-1.jpg",
+        "price": 80
+    },
+    {
+        "item_id": 27,
+        "name": "Creme brulee",
+        "image_url": "https://richanddelish.com/wp-content/uploads/2022/04/creme-brulee-1-683x1024.jpg",
+        "price": 40
+    },
+    {
+        "item_id": 28,
+        "name": "Croque madame",
+        "image_url": "https://vikalinka.com/wp-content/uploads/2023/06/Croque-Madame-9-Edit.jpg",
+        "price": 80
+    },
+    {
+        "item_id": 29,
+        "name": "Cup cake",
+        "image_url": "https://natashaskitchen.com/wp-content/uploads/2020/05/Vanilla-Cupcakes-3.jpg",
+        "price": 460
+    },
+    {
+        "item_id": 30,
+        "name": "Deviled eggs",
+        "image_url": "https://static01.nyt.com/images/2021/10/15/dining/aw-classic-deviled-eggs/aw-classic-deviled-eggs-superJumbo.jpg",
+        "price": 560
+    },
+    {
+        "item_id": 31,
+        "name": "Donuts",
+        "image_url": "https://anitalianinmykitchen.com/wp-content/uploads/2018/10/cake-donuts-sq-1-of-1.jpg",
+        "price": 650
+    },
+    {
+        "item_id": 32,
+        "name": "Dumplings",
+        "image_url": "https://twoplaidaprons.com/wp-content/uploads/2020/05/Chinese-pork-dumplings-picking-up-a-dumpling-with-chopsticks.jpg",
+        "price": 610
+    },
+    {
+        "item_id": 33,
+        "name": "Edamame",
+        "image_url": "https://www.acouplecooks.com/wp-content/uploads/2020/03/Shelled-Edamame-Recipe-006.jpg",
+        "price": 210
+    },
+    {
+        "item_id": 34,
+        "name": "Eggs benedict",
+        "image_url": "https://tastesbetterfromscratch.com/wp-content/uploads/2013/08/Eggs-Benedict-11.jpg",
+        "price": 550
+    },
+    {
+        "item_id": 35,
+        "name": "Escargots",
+        "image_url": "https://www.saveur.com/uploads/2019/03/18/DPVFMOB6FKHO24KOLKQQJOET2M.jpg?auto=webp&auto=webp&optimize=high&quality=70&width=1440",
+        "price": 350
+    },
+    {
+        "item_id": 36,
+        "name": "Falafel",
+        "image_url": "https://toriavey.com/images/2011/01/TOA109_18-1.jpeg",
+        "price": 640
+    },
+    {
+        "item_id": 37,
+        "name": "Filet mignon",
+        "image_url": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/02/Filet-Mignon-main.jpg",
+        "price": 540
+    },
+    {
+        "item_id": 38,
+        "name": "Fish and chips",
+        "image_url": "https://static.toiimg.com/thumb/59736398.cms?width=1200&height=900",
+        "price": 110
+    },
+    {
+        "item_id": 39,
+        "name": "Foie gras",
+        "image_url": "https://downtonabbeycooks.com/wp-content/uploads/2019/03/FoisGras.jpg",
+        "price": 220
+    },
+    {
+        "item_id": 40,
+        "name": "French fries",
+        "image_url": "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800",
+        "price": 430
+    },
+    {
+        "item_id": 41,
+        "name": "French onion soup",
+        "image_url": "https://www.wellplated.com/wp-content/uploads/2023/01/French-Onion-Soup-Recipe-e1673300838182.jpg",
+        "price": 100
+    },
+    {
+        "item_id": 42,
+        "name": "French toast",
+        "image_url": "https://natashaskitchen.com/wp-content/uploads/2021/03/French-Toast-SQ.jpg",
+        "price": 90
+    },
+    {
+        "item_id": 43,
+        "name": "Fried calamari",
+        "image_url": "https://www.dinneratthezoo.com/wp-content/uploads/2019/11/fried-calamari-67.jpg",
+        "price": 120
+    },
+    {
+        "item_id": 44,
+        "name": "Fried rice",
+        "image_url": "https://www.savoryexperiments.com/wp-content/uploads/2022/11/Fried-Rice-9-500x500.jpg",
+        "price": 730
+    },
+    {
+        "item_id": 45,
+        "name": "Frozen Yogurt",
+        "image_url": "https://www.melskitchencafe.com/wp-content/uploads/2021/07/strawberry-frozen-yogurt5.jpg",
+        "price": 240
+    },
+    {
+        "item_id": 46,
+        "name": "Garlic bread",
+        "image_url": "https://www.ambitiouskitchen.com/wp-content/uploads/2023/02/Garlic-Bread-4.jpg",
+        "price": 560
+    },
+    {
+        "item_id": 47,
+        "name": "Gnocchi",
+        "image_url": "https://images.immediate.co.uk/production/volatile/sites/30/2017/03/Gnoochi-d7df2ce.png?quality=90&resize=556,505",
+        "price": 550
+    },
+    {
+        "item_id": 48,
+        "name": "Greek salad",
+        "image_url": "https://hips.hearstapps.com/hmg-prod/images/greek-salad-index-642f292397bbf.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=1200:*",
+        "price": 510
+    },
+    {
+        "item_id": 49,
+        "name": "Grilled cheese sandwich",
+        "image_url": "https://natashaskitchen.com/wp-content/uploads/2021/08/Grilled-Cheese-Sandwich-SQ.jpg",
+        "price": 760
+    },
+    {
+        "item_id": 50,
+        "name": "Grilled salmon",
+        "image_url": "https://www.dinneratthezoo.com/wp-content/uploads/2019/05/grilled-salmon-final-2.jpg",
+        "price": 570
+    },
+    {
+        "item_id": 51,
+        "name": "Guacamole",
+        "image_url": "https://www.skinnytaste.com/wp-content/uploads/2017/01/Guacamole-2.jpg",
+        "price": 560
+    },
+    {
+        "item_id": 52,
+        "name": "Gyoza",
+        "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/04/Gyoza-3112-I.jpg",
+        "price": 310
+    },
+    {
+        "item_id": 53,
+        "name": "Hamburger",
+        "image_url": "https://www.inspiredtaste.net/wp-content/uploads/2023/06/Easy-Hamburger-Recipe-Video.jpg",
+        "price": 610
+    },
+    {
+        "item_id": 54,
+        "name": "Hot and sour soup",
+        "image_url": "https://www.gimmesomeoven.com/wp-content/uploads/2017/01/Chinese-Hot-and-Sour-Soup-Recipe-1-2.jpg",
+        "price": 60
+    },
+    {
+        "item_id": 55,
+        "name": "Hot dog",
+        "image_url": "https://www.yeoldeoak.co.uk/wp-content/uploads/2020/03/CLASSIC-HOT-DOG.jpg",
+        "price": 340
+    },
+    {
+        "item_id": 56,
+        "name": "Huevos rancheros",
+        "image_url": "https://i0.wp.com/www.aspicyperspective.com/wp-content/uploads/2018/04/best-huevos-rancheros-recipe-25.jpg?fit=800%2C1200&ssl=1",
+        "price": 770
+    },
+    {
+        "item_id": 57,
+        "name": "Hummus",
+        "image_url": "https://www.inspiredtaste.net/wp-content/uploads/2019/07/The-Best-Homemade-Hummus-Recipe-1200.jpg",
+        "price": 750
+    },
+    {
+        "item_id": 58,
+        "name": "Ice cream",
+        "image_url": "https://handletheheat.com/wp-content/uploads/2021/06/homemade-vanilla-ice-cream.jpg",
+        "price": 250
+    },
+    {
+        "item_id": 59,
+        "name": "Lasagna",
+        "image_url": "https://static01.nyt.com/images/2023/08/31/multimedia/RS-Lasagna-hkjl/RS-Lasagna-hkjl-superJumbo.jpg",
+        "price": 640
+    },
+    {
+        "item_id": 60,
+        "name": "lobster isque",
+        "image_url": "https://40aprons.com/wp-content/uploads/2021/02/lobster-bisque-6-750x750.jpg",
+        "price": 220
+    },
+    {
+        "item_id": 61,
+        "name": "Lobster roll sandwich",
+        "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/10/Lobster-Roll-1561-I.jpg",
+        "price": 260
+    },
+    {
+        "item_id": 62,
+        "name": "Macaroni and cheese",
+        "image_url": "https://thebakermama.com/wp-content/uploads/2014/09/IMG_1588-scaled.jpg",
+        "price": 260
+    },
+    {
+        "item_id": 63,
+        "name": "macarons",
+        "image_url": "https://sallysbakingaddiction.com/wp-content/uploads/2021/02/french-macarons.jpg",
+        "price": 250
+    },
+    {
+        "item_id": 64,
+        "name": "Miso soup",
+        "image_url": "https://www.gimmesomeoven.com/wp-content/uploads/2016/01/Miso-Soup-Recipe-9.jpg",
+        "price": 250
+    },
+    {
+        "item_id": 65,
+        "name": "Mussels",
+        "image_url": "https://www.healthyseasonalrecipes.com/wp-content/uploads/2023/01/simple-steamed-mussels-with-garlic-sq-041.jpg",
+        "price": 250
+    },
+    {
+        "item_id": 66,
+        "name": "Nachos",
+        "image_url": "https://iambaker.net/wp-content/uploads/2019/07/chili-cheese-nacho-final.jpg",
+        "price": 250
+    },
+    {
+        "item_id": 67,
+        "name": "Omelette",
+        "image_url": "https://joyfoodsunshine.com/wp-content/uploads/2022/07/best-omelette-recipe-1.jpg",
+        "price": 750
+    },
+    {
+        "item_id": 68,
+        "name": "Onion rings",
+        "image_url": "https://natashaskitchen.com/wp-content/uploads/2022/06/Onion-Rings-Recipe-5.jpg",
+        "price": 250
+    },
+    {
+        "item_id": 69,
+        "name": "Orysters",
+        "image_url": "https://www.theendlessmeal.com/wp-content/uploads/2023/07/oysters-on-the-half-shell.jpg",
+        "price": 750
+    },
+    {
+        "item_id": 70,
+        "name": "Pad thai",
+        "image_url": "https://www.recipetineats.com/wp-content/uploads/2020/01/Chicken-Pad-Thai_9-SQ.jpg",
+        "price": 640
+    },
+    {
+        "item_id": 71,
+        "name": "Paella",
+        "image_url": "https://tastesbetterfromscratch.com/wp-content/uploads/2020/04/Paella-7.jpg",
+        "price": 330
+    },
+    {
+        "item_id": 72,
+        "name": "Pancakes",
+        "image_url": "https://hips.hearstapps.com/hmg-prod/images/best-homemade-pancakes-index-640775a2dbad8.jpg?crop=0.503xw:1.00xh;0.235xw,0&resize=1200:*",
+        "price": 640
+    },
+    {
+        "item_id": 73,
+        "name": "Panna cotta",
+        "image_url": "https://assets.epicurious.com/photos/62d6c513077a952f4a8c338c/1:1/w_2848,h_2848,c_limit/PannaCotta_RECIPE_04142022_9822_final.jpg",
+        "price": 640
+    },
+    {
+        "item_id": 74,
+        "name": "Peking duck",
+        "image_url": "https://redhousespice.com/wp-content/uploads/2022/01/sliced-peking-duck-with-pancakes-scaled.jpg",
+        "price": 210
+    },
+    {
+        "item_id": 75,
+        "name": "Pho",
+        "image_url": "https://www.recipetineats.com/wp-content/uploads/2019/04/Beef-Pho_6.jpg",
+        "price": 470
+    },
+    {
+        "item_id": 76,
+        "name": "Pizza",
+        "image_url": "https://tastesbetterfromscratch.com/wp-content/uploads/2023/06/Pepperoni-Pizza-1.jpg",
+        "price": 610
+    },
+    {
+        "item_id": 77,
+        "name": "Pork chop",
+        "image_url": "https://fedandfit.com/wp-content/uploads/2021/12/211204_Sous-Vide-Pork-Chop-11.jpg",
+        "price": 430
+    },
+    {
+        "item_id": 78,
+        "name": "Poutine",
+        "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2019/07/Poutine-square-FS-7606.jpg",
+        "price": 460
+    },
+    {
+        "item_id": 79,
+        "name": "Prime rib",
+        "image_url": "https://houseofnasheats.com/wp-content/uploads/2023/02/Smoked-Prime-Rib-Recipe-11-scaled.jpg",
+        "price": 360
+    },
+    {
+        "item_id": 80,
+        "name": "Pulled pork sandwich",
+        "image_url": "https://www.skinnytaste.com/wp-content/uploads/2012/04/pulled-pork-07.jpg",
+        "price": 750
+    },
+    {
+        "item_id": 81,
+        "name": "Ramen",
+        "image_url": "https://glebekitchen.com/wp-content/uploads/2017/04/tonkotsuramenfront.jpg",
+        "price": 210
+    },
+    {
+        "item_id": 82,
+        "name": "Ravioli",
+        "image_url": "https://www.theendlessmeal.com/wp-content/uploads/2012/10/homemade-ravioli-recipe-3-500x500.jpg",
+        "price": 240
+    },
+    {
+        "item_id": 83,
+        "name": "Red velvet cake",
+        "image_url": "https://houseofnasheats.com/wp-content/uploads/2019/01/Best-Homemade-Red-Velvet-Cake-Recipe-1.jpg",
+        "price": 270
+    },
+    {
+        "item_id": 84,
+        "name": "Risotto",
+        "image_url": "https://hips.hearstapps.com/hmg-prod/images/del089923-risotto-web-001-ab-index-64e7a1083b54e.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=1200:*",
+        "price": 160
+    },
+    {
+        "item_id": 85,
+        "name": "Samosa",
+        "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2023/10/Samosa-square-FS.jpg",
+        "price": 160
+    },
+    {
+        "item_id": 86,
+        "name": "Sashimi",
+        "image_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/sashimi-c123df7.jpg?quality=90&resize=556,505",
+        "price": 260
+    },
+    {
+        "item_id": 87,
+        "name": "Scallops",
+        "image_url": "https://tastesbetterfromscratch.com/wp-content/uploads/2021/08/Seared-Scallops-Web-11.jpg",
+        "price": 750
+    },
+    {
+        "item_id": 88,
+        "name": "Seaweed salad",
+        "image_url": "https://40aprons.com/wp-content/uploads/2021/04/Seaweed-Salad-Reshoot-6-scaled.jpg",
+        "price": 750
+    },
+    {
+        "item_id": 89,
+        "name": "Shrimp and grits",
+        "image_url": "https://www.wellplated.com/wp-content/uploads/2023/08/Southern-Shrimp-and-Grits-Recipe.jpg",
+        "price": 530
+    },
+    {
+        "item_id": 90,
+        "name": "Spaghetti bolognese",
+        "image_url": "https://supervalu.ie/thumbnail/800x600/var/files/real-food/recipes/Uploaded-2020/spaghetti-bolognese-recipe.jpg",
+        "price": 110
+    },
+    {
+        "item_id": 91,
+        "name": "Spaghetti carbonara",
+        "image_url": "https://www.twopeasandtheirpod.com/wp-content/uploads/2023/01/Spaghetti-Carbonara168766.jpg",
+        "price": 650
+    },
+    {
+        "item_id": 92,
+        "name": "Spring rolls",
+        "image_url": "https://www.sugarsaltmagic.com/wp-content/uploads/2023/01/Chinese-Spring-Rolls-4FEAT-500x500.jpg",
+        "price": 250
+    },
+    {
+        "item_id": 93,
+        "name": "Steak",
+        "image_url": "https://www.skinnytaste.com/wp-content/uploads/2022/03/Air-Fryer-Steak-6.jpg",
+        "price": 460
+    },
+    {
+        "item_id": 94,
+        "name": "Strawberry shortcake",
+        "image_url": "https://www.mycakeschool.com/images/2023/05/Strawberry-Shortcake-Cake-Featured-image-.jpg",
+        "price": 640
+    },
+    {
+        "item_id": 95,
+        "name": "Sushi",
+        "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Sushi-Rolls-Maki-Sushi-%E2%80%93-Hosomaki-1106-II.jpg",
+        "price": 250
+    },
+    {
+        "item_id": 96,
+        "name": "Tacos",
+        "image_url": "https://feelgoodfoodie.net/wp-content/uploads/2017/04/Ground-Beef-Tacos-9.jpg",
+        "price": 360
+    },
+    {
+        "item_id": 97,
+        "name": "Takoyaki",
+        "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/10/Takoyaki-NEW-500x375.jpg",
+        "price": 60
+    },
+    {
+        "item_id": 98,
+        "name": "Tiramisu",
+        "image_url": "https://www.culinaryhill.com/wp-content/uploads/2021/01/Tiramisu-Culinary-Hill-1200x800-1.jpg",
+        "price": 450
+    },
+    {
+        "item_id": 99,
+        "name": "Tuna tartare",
+        "image_url": "https://pinchandswirl.com/wp-content/uploads/2022/12/Tuna-Tartare-sq.jpg",
+        "price": 70
+    },
+    {
+        "item_id": 100,
+        "name": "Waffles",
+        "image_url": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2023/03/easy-freezer-waffles-7-scaled.jpg?fit=750%2C500&ssl=1",
+        "price": 220
+    }
+]

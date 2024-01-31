@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "food101-chatbot-dxvi",
+  "private_key_id": "f260831c9b99d45f7387443870f32f93c39d0d88",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDd20LDmK98uzcD\ntGk9dOyufjQbVLvGV4zk6mAzh1CAGxIigPRAN8YWeAdNInPq4L3IVbSBwlht+CY2\npvp7rXDmRzUnNNREsNKohzzOjtzTtBN4xQFbBs4GFnAkDRpwLkMHkxaWOISjCaC8\ndYlHF1TXtgq6sWZaLuNit1BbkTCI5YP2iruQckiSBXz9yzYuM/ulSV3uGTmISnCr\ncX4DlLHk2wXugKf7Y+Eyc0rpQMgeH7us9vk70Wdbd/Cq/DqyvZ5C2AkBV0eiWEWb\nSSu0DoWoCSrYyejpL8iQZnBK2Qefk0HiS+GJZIjLIrhoYodyDrEw6KklRnHuZ1dX\nVXVxaCyTAgMBAAECggEATkOszFKfSbnDwR9SZvdKDY6A9ElSirhVAGZ8NIFeUSr7\nnUdvov3p+AA01y25xditqrAtYv878eNyG6KRR7MaWmoxYpjc7zSPxBsdROMaHObw\nXZDmFwYSBQzCV711n7B6PgBSHgFnLRrW5NTz7ivZZtWV+GFfsZ3L4oW3p+3SuN/S\nmrO+m5icWfhpViqOVHFaSff8y0OSgKzJmJroPC8WqI0ndNA8Z2hXoPCqix7vmjDQ\nQSCKjDkRmLEqPtrZZB1xQaywGQfqKheMLMPkyYMvrxOTTCSw46H0VJU8TiheJMha\n8NA1KDfxfDqov+L/2jbx+3J1rqloHQcG2hyy5wYIrQKBgQDz4Oz8x2Amxza9Hamy\nbg4FdPDANaYYUDa61boCD2rfjzwCt9sF4bvuAfUl+sAwe1IgmIUvaBpYthP5LWP8\nUdJe+QgN9SZvRNhnndkMEJntNHf2oXtzccphDHzPGRyyR/KW8qhmGjgf3eHLOx/0\nzL/6AlADFV5Aii5gR2gKtoInrQKBgQDo4iD9LAQQgEA3N+mc9q4pTxNw1W3SqNta\nDBRBN27m1C+/E6NMyZXNEsfoFqF4iUrHsA3kamkUCoy1z7uCFZHVvuMIuzbqn9cm\n4o7IrEZ68HHNd9hTxJke6lYUNET7EZutSYbb6c4Fra1MFnJ14xR1dcHHDXE6Z9NA\nL6aVWOMtPwKBgBUtdAbjXVMgu30ipUjMS8VniTx3rCuyU35X7uYc5p/xNTnbM1bI\namRZoSsiIixTmSchd3dNZ/RKI2Pg8CzKAiWjJHLp1eOVq+EbkOx+SI+TndM55Jl6\nySMyTWhCev50Rvmaqsrq/fKudtwKD1VXrlgMeVw7L8sU9MABk2RSwuylAoGBAIks\noXffFGnP0YN1CMMvPnkQngfpf64FTmdlFA0yJL4MoC8x1w+k8fsApAXeRrBkVkr3\nNceksk5exHFXckB2ihdYQAzlkbxz+FxsOOSVLVK/DJmVjTQSaoseRyPRggxNW+Cf\nnbMtrfAEVD6sPjGYV3W0rjacgWSAwZteNgZkfDQrAoGBANcJxVKAKXToBTxRl/0D\n5qJkjbehdT6Cd/qeyMgJHIPKgYeEXOFhdLvUiEaKm0pIbMnxetQzzF4/UM1FF2vD\nruQZyez0BDNOwg4ifeoV83Nn6Mk39pCrSfdTm9cQ5z510ZJATRXIq6qdw8z+4uLh\nKjVzPyjDD7RMYFfKI1Q3HbGo\n-----END PRIVATE KEY-----\n",
+  "client_email": "hassan@food101-chatbot-dxvi.iam.gserviceaccount.com",
+  "client_id": "118306935231846986329",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hassan%40food101-chatbot-dxvi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
